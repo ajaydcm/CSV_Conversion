@@ -2,6 +2,11 @@
 
 This tool allows you to convert `.bin` or `.ulg` log files from PX4 or ArduPilot into CSV format using a graphical file picker.
 
+## Clone the Repository to Your Local System
+```bash
+    git clone https://github.com/ajaydcm/CSV_Conversion.git
+    cd CSV_Conversion
+```
 ## 🛠️ Requirements
 
 - Python 3.x
